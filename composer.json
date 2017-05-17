@@ -1,0 +1,16 @@
+{
+    "name": "alessandro.sales/ale-php-info",
+    "description": "Projeto teste que exibe o phpinfo",
+    "authors": [
+        {
+            "name": "Alessandro Sales",
+            "email": "alessandro.sales@mobtelecom.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AlePHPInfo\\": "src"
+        }
+    }
+}
