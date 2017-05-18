@@ -7,7 +7,9 @@
             "email": "alessandro.sales@mobtelecom.com.br"
         }
     ],
-    "require": {},
+    "require": {
+        "symfony/yaml": ">=v3.2.8"
+    },
     "autoload": {
         "psr-4": {
             "AlePHPInfo\\": "src"
